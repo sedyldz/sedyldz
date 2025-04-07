@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm Sedanur Yildiz
+# 👋 Hi, I'm Seda
 
 A full stack developer and designer, obsessed with crafting smooth, seamless experiences that make complex technology effortlessly accessible.
 8+ years experience delivering complex systems and scalable solutions using modern technologies.
