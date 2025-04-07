@@ -36,7 +36,7 @@ I write down stuff I always forget here → [sedanuryildiz.com/blog](https://sed
 - 🥇 **Denizbank Hackathon** – Social solidarity campaign platform  
 
 
-## 🧗‍♀️ Outside the Code
+## 🏔️ Outside the Code
 
 You’ll probably find me:
 - 🌿 [Drawing plants](https://instagram.com/roseherbier)
