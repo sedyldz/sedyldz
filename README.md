@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm Seda
 
 A full stack developer and designer, obsessed with crafting smooth, seamless experiences that make complex technology effortlessly accessible.
-8+ years experience delivering complex systems and scalable solutions using modern technologies.
+9+ years experience delivering complex systems and scalable solutions using modern technologies.
 
 - 🛠 Built an **observability tool** for DBAs at [Percona](https://www.percona.com/) to diagnose slow queries, anomalies, and deadlocks.
 - 🤖 Co-founded [Knowy.ai](https://knowy.ai) – an AI-driven knowledge graph platform. Led a global team of 8 to build a scalable MVP.
