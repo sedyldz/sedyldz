@@ -41,6 +41,6 @@ I write down stuff I always forget here → [sedanuryildiz.com/blog](https://sed
 
 You’ll probably find me:
 - 🌿 [Drawing plants](https://instagram.com/roseherbier)
-- 🏃‍♀️ [Running, swimming, trekking](https://www.strava.com/athletes/106911223)
+- 🏃‍♀️ [Running, swimming, hiking](https://www.strava.com/athletes/106911223)
 
 
