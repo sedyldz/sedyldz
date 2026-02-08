@@ -20,7 +20,7 @@ A full stack developer and designer, obsessed with crafting smooth, seamless exp
 9+ years experience delivering complex systems and scalable solutions using modern technologies.
 
 
-- 🧪 Working product-led growth at [FingerprintJS](https://fingerprint.com/) with lots of experiments. 
+- 🧪 Working on product-led growth at [FingerprintJS](https://fingerprint.com/) with lots of experiments. 
 - 🛠 Built an **observability tool** for DBAs at [Percona](https://www.percona.com/) to diagnose slow queries, anomalies, and deadlocks.
 - 🤖 Co-founded [Knowy.ai](https://knowy.ai) – an AI-driven knowledge graph platform. Led a global team of 8 to build a scalable MVP.
 - 🎬 Launched 10+ digital products from scratch at [tio.ist](https://tio.ist/studio/), working across e-commerce, SaaS, and fintech.
